@@ -22,7 +22,7 @@ URP 프로젝트에서 **방향광과 실시간 그림자를 끄고도 같은 �
 Window > Package Manager > **+** > **Add package from git URL...**
 
 ```
-<이 저장소의 git URL>
+https://github.com/choi-sunggyu/Vertex-light-baker.git
 ```
 
 특정 버전을 고정하려면 URL 끝에 `#v1.0.0` 처럼 태그를 붙입니다.
