@@ -1,0 +1,13 @@
+{
+    "name": "VertexLightBaking.Editor.Tests",
+    "rootNamespace": "VertexLightBaking",
+    "references": ["VertexLightBaking.Runtime", "VertexLightBaking.Editor", "UnityEngine.TestRunner", "UnityEditor.TestRunner"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll"],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "noEngineReferences": false
+}

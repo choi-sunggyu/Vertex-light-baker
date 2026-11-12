@@ -1,0 +1,10 @@
+{
+    "name": "VertexLightBaking.Runtime",
+    "rootNamespace": "VertexLightBaking",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

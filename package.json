@@ -1,0 +1,12 @@
+{
+  "name": "com.vlb.vertex-light-baker",
+  "version": "1.0.0",
+  "displayName": "Vertex Light Baker",
+  "description": "URP 에서 방향광·실시간 그림자 없이 같은 모습을 내는 도구. 배경 밝기는 정점에 굽고, 그림자는 빛 방향에서 찍은 그림자 지도를 저장해 두고 읽는다 (움직이는 물체만 매 프레임).",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.0"
+  },
+  "keywords": ["urp", "shadow", "bake", "vertex lighting", "mobile"],
+  "license": "MIT"
+}
